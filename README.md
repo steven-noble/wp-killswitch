@@ -24,8 +24,11 @@ If you are using this plugin to hide a website while you work on fixing somethin
 
 ## Changelog
 
+= 0.1.1 =
+* Re-enabled local kill switch for non-remote
+
 = 0.1.0 =
-* Initial launch of the remove version
+* Initial launch of the remote version
 * Updated compatible version number
 
 = 0.0.3 =
