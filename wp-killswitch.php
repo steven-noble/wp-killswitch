@@ -4,7 +4,7 @@ Plugin URI:   https://wpkillswitch.io
 GitHub Plugin URI: https://github.com/graphicscove/wp-killswitch
 GitHub Plugin URI: https://github.com/graphicscove/wp-killswitch
 Description:  WP Killswitch lets you non-destructively white out a Wordpress website.
-Version:      0.1.1
+Version:      1.0.220831
 Author:       Steven Noble
 Author URI:   https://graphicscove.com
 */
