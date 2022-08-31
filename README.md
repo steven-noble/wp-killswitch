@@ -31,7 +31,7 @@ You can now toggle WP Killswitch remotely by registering your site at [wpkillswi
 Additional support for this plugin is available through our website at [wpkillswitch.io](https://wpkillswitch.io) 
 ## Changelog
 
-= 1.0.220731 =
+= 1.0.220831 =
 * Added support for remote activation (Now out of beta)
 * Updated compatible version number
 * Refreshed screenshots of what the plugin does

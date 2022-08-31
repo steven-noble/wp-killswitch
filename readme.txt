@@ -32,6 +32,14 @@ If you are using this plugin to hide a website while you work on fixing somethin
 
 == Changelog ==
 
+= 1.0.220831 =
+* Added support for remote activation (Now out of beta)
+* Updated compatible version number
+* Refreshed screenshots of what the plugin does
+
+= 0.1.1 =
+* Re-enabled local kill switch for non-remote
+
 = 0.1.0 =
 * Initial launch of the remove version
 * Updated compatible version number
@@ -50,4 +58,8 @@ If you are using this plugin to hide a website while you work on fixing somethin
 
 == Remote ==
 
-If you need to activate WP Killswitch remotely for whatever reason, you can register your site at https://wpkillswitch.io
+You can now toggle WP Killswitch remotely by registering your site at [wpkillswitch.io](https://wpkillswitch.io) 
+
+== Support ==
+
+Additional support for this plugin is available through our website at [wpkillswitch.io](https://wpkillswitch.io) 
