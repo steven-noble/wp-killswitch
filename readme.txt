@@ -4,7 +4,7 @@ Donate link: https://graphicscove.com
 Tags: css, killswitch
 Requires at least: 4.0
 Tested up to: 5.7.2
-Stable tag: 0.1.0
+Stable tag: 0.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -41,7 +41,7 @@ If you are using this plugin to hide a website while you work on fixing somethin
 * Re-enabled local kill switch for non-remote
 
 = 0.1.0 =
-* Initial launch of the remove version
+* Initial launch of the remote version
 * Updated compatible version number
 
 = 0.0.3 =
