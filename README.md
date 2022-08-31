@@ -19,10 +19,22 @@ If you are using this plugin to hide a website while you work on fixing somethin
 
 ## Screenshots
 
-1. What the user sees on the front end
-2. The warning message displayed in the admin
+![Frontend View](/screenshot-1.png?raw=true "When active, visitors will see a blank screen on the frontend of their site.")
+![Dashboard View](/screenshot-2.png?raw=true "A standard warning message will be displayed to site admins on the dashboard.")
 
+== Remote ==
+
+You can now toggle WP Killswitch remotely by registering your site at [wpkillswitch.io](https://wpkillswitch.io) 
+
+== Support ==
+
+Additional support for this plugin is available through our website at [wpkillswitch.io](https://wpkillswitch.io) 
 ## Changelog
+
+= 1.0.220831 =
+* Added support for remote activation (Now out of beta)
+* Updated compatible version number
+* Refreshed screenshots of what the plugin does
 
 = 0.1.1 =
 * Re-enabled local kill switch for non-remote
@@ -42,7 +54,3 @@ If you are using this plugin to hide a website while you work on fixing somethin
 
 = 0.0.1 =
 * First build
-
-## Remote
-
-If you need to activate WP Killswitch remotely for whatever reason, you can register your site at https://wpkillswitch.io
